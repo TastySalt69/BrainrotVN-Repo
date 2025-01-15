@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 49: invalid character '“' (U+201C)
+    “"C:\Users\Daniel\Downloads\I Got Hit by A Truck and Reincarnated Into a World Full of Brainrot Memes\game\music\chopped-chin.mp3"”
+     ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Wed Jan 15 22:31:28 2025
