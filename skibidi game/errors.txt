@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/options.rpy", line 49: invalid character '“' (U+201C)
-    “"C:\Users\Daniel\Downloads\I Got Hit by A Truck and Reincarnated Into a World Full of Brainrot Memes\game\music\chopped-chin.mp3"”
-     ^
+File "game/script.rpy", line 8: invalid syntax
+    define n = Character("[name]")
+            ^
 
 Ren'Py Version: Ren'Py 8.3.4.24120703
-Wed Jan 15 22:31:28 2025
+Thu Jan 16 10:09:34 2025
